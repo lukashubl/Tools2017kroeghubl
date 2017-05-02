@@ -318,5 +318,7 @@ public class DoubleLinkedList {
     	
     }
     //test method for git
-    public void thisIsANewMethod() { }
+    public void thisIsANewMethod() {
+        string s = "This is the line of code by member2";
+    }
 }
