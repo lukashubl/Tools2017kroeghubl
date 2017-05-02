@@ -321,6 +321,7 @@ public class DoubleLinkedList {
         System.Out.println("David Krög is pretty poor at Dota 2");
         int number = 0;
         if(number == 0)System.Out.println("He is even worse than expected before ^^");
+        //just a comment, also very useful
     }
     //test method for git
     public void thisIsANewMethod() {
