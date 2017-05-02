@@ -320,6 +320,6 @@ public class DoubleLinkedList {
     //test method for git
     public void thisIsANewMethod() {
         string newString = "Line of code from Member1.";
-        string s = "This is the line of code by member2";
+        string s = "Needed to fix this bug";
     }
 }
