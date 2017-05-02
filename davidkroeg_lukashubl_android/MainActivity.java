@@ -317,6 +317,9 @@ public class DoubleLinkedList {
         if (val == 0) return;
     	
     }
+    public void anotherUnusedMethod(){
+        System.Out.Writeline("David Krög is pretty poor at Dota 2");
+    }
     //test method for git
     public void thisIsANewMethod() {
         string newString = "Line of code from Member1.";
