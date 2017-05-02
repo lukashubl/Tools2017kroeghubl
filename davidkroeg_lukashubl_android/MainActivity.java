@@ -117,6 +117,7 @@ public class DoubleLinkedList {
     	}else if(this.getTail().getVal() == Integer.MIN_VALUE && this.getTail().getList() != null){	//last element is a list
     		return this.getTail().getList().peekBack();
     	}else return 0; //This case can never happen
+	   
     }
     /** Returns the number of elements in the double linked list and of * all its sub-lists */
     public int elements() {
@@ -327,5 +328,9 @@ public class DoubleLinkedList {
     public void thisIsANewMethod() {
         string newString = "Member 1's Line was perfect";
         string s = "Needed to fix this bug";
+    }
+	
+    public String spagetthi(){
+	return "lets go";    
     }
 }
