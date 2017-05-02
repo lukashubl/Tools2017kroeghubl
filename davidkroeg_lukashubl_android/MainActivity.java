@@ -313,7 +313,8 @@ public class DoubleLinkedList {
         	newNode.setPrev(this.getTail());
         	this.setTail(newNode);
     	}
-    	
+        //added for git
+        if (val == 0) return;
     	
     }
 }
