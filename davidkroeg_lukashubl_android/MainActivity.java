@@ -317,6 +317,11 @@ public class DoubleLinkedList {
         if (val == 0) return;
     	
     }
+    public void anotherUnusedMethod(){
+        System.Out.println("David Krög is pretty poor at Dota 2");
+        int number = 0;
+        if(number == 0)System.Out.println("He is even worse than expected before ^^");
+    }
     //test method for git
     public void thisIsANewMethod() {
         string newString = "Line of code from Member1.";
